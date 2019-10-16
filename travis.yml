@@ -2,3 +2,18 @@ language: java
 jdk:
   - openjdk11
 
+dist: bionic
+
+before_install: echo Begin actual build
+
+script:
+
+  - ./gradlew clean build
+
+after_success: echo Build successful
+
+after failure: sudo mail -s "Build failure" ghiselli.nicola@gmail.com < /dev/null
+
+before_deploy: echo Preparing for deploy
+
+after_deploy: echo Deployment phase concluded.
