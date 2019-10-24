@@ -1,4 +1,5 @@
-# Distributed Systems M - A.A. 2019/20
+<p align="center"> <h1> Distributed Systems M </h1> </p>
+<p align="center"> <h3>A.A. 2019/20  </h3> </p>
 
 ## Welcome to the DevOps Seminar Demo Website 
 
