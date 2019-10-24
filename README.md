@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Distributed Systems M - A.A. 2019/20
+
+## Welcome to the DevOps Seminar Demo Website 
+
+This is a very cool way to provide and distribute your documentation!
 
 You can use the [editor on GitHub](https://github.com/ghisellinicola/Java-Gradle-Travis-Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

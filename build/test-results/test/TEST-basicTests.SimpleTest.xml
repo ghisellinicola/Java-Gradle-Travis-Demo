@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="basicTests.SimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-16T16:19:14" hostname="XPS13" time="0.002">
+<testsuite name="basicTests.SimpleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-17T10:33:35" hostname="XPS13" time="0.004">
   <properties/>
-  <testcase name="test1" classname="basicTests.SimpleTest" time="0.002"/>
+  <testcase name="test1" classname="basicTests.SimpleTest" time="0.004"/>
+  <testcase name="test2" classname="basicTests.SimpleTest" time="0.0"/>
   <system-out><![CDATA[Test 1 works
+Test 2 works
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
